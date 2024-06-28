@@ -2,7 +2,7 @@
 FullStack Developer. <br/>
 Enthusiast of the best web & mobile development technologies.<br/>
 <br/>
-React, TypeScript, NodeJS.
+ReactJS, TypeScript, NodeJS.
 
 ##
 
