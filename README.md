@@ -1,7 +1,8 @@
 # Jasiel Leal
 FullStack Developer. <br/>
-Enthusiast of the best web & mobile development technologies.
-
+Enthusiast of the best web & mobile development technologies.<br/>
+<br/>
+React, TypeScript, NodeJS.
 
 ##
 
