@@ -1,5 +1,5 @@
 # Jasiel Leal
-Front End Developer. <br/>
+FullStack Developer. <br/>
 Enthusiast of the best web & mobile development technologies.
 
 
